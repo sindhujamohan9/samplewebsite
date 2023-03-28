@@ -52,6 +52,12 @@ body {
   }
 }
 
+.left-nav-list{
+ width: 120px; 
+  margin-top: 0px; 
+  padding-top: 10px;
+}
+
 .max-width-640 {
   max-width: 640px;
 }
