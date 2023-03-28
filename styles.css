@@ -443,8 +443,9 @@ a[data-fancybox] img {
   position: relative;
 }
 
-#profile .left_nav_icons{
+.left_nav_icons{
   height:20px;
+  display:block;
 }
 
 #profile .portrait {
