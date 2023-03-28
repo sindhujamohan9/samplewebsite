@@ -453,6 +453,7 @@ a[data-fancybox] img {
 height: 20px;
 display: block;
 margin-top: 15px;
+float: left;
 }
 
 #profile .portrait {
