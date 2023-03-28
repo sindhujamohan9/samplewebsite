@@ -498,9 +498,9 @@ list-style-type: none;
   margin-right: 0;
 }
 
-#profile .network-icon li:hover {
+/* #profile .network-icon li:hover {
   transform: scale(1.2)
-}
+} */
 
 .big-icon {
   font-size: 2rem;
