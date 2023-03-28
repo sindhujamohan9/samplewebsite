@@ -464,7 +464,7 @@ a[data-fancybox] img {
 }
 
 #profile ul.network-icon {
-  display: inline-flex;
+  
   flex-direction: row;
   flex-wrap: wrap;
   list-style: none;
