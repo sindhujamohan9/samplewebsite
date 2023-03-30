@@ -506,6 +506,16 @@ list-style-type: none;
   font-size: 2rem;
 }
 
+.interestsitem {
+  list-style: none;
+}
+.interestsitem::before {
+  content: '';
+/*   display: inline-block; */
+  width: 20px;
+  background-image: url();
+}
+
 ul.ul-interests li {
   font-size: 0.9rem;
 }
