@@ -506,14 +506,12 @@ list-style-type: none;
   font-size: 2rem;
 }
 
-.interestsitem {
+li.interestsitem {
   list-style: none;
 }
-.interestsitem::before {
-  content: '';
-/*   display: inline-block; */
+li.interestsitem::before {
   width: 20px;
-  background-image: url();
+  background-image: url('/samplewebsite/img/puzzle2.svg');
 }
 
 ul.ul-interests li {
