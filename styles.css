@@ -506,9 +506,18 @@ list-style-type: none;
   font-size: 2rem;
 }
 
-ul.ul-interests {
-  list-style-image: url('/samplewebsite/blob/main/img/pen.png');
+li.interestitem {
+  list-style: none;
 }
+
+li.interestitem::before {
+  content: '';
+  display: inline-block;
+  height: 16px;
+  width: 16px;
+  background-image: url('/samplewebsite/img/pen.png');
+}
+
 
 ul.ul-interests li {
   font-size: 0.9rem;
