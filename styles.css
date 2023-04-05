@@ -211,6 +211,9 @@ blockquote p:last-child {
   .space-below {
     margin-bottom: 10px;
   }
+  .item-for-media{
+    display:none;
+  }
 }
 
 .universal-wrapper {
