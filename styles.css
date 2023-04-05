@@ -210,8 +210,11 @@ blockquote p:last-child {
 @media screen and (max-width: 768px) {
   .space-below {
     margin-bottom: 10px;
-  }
-  .item-for-media{
+  } 
+}
+
+@media (max-width: 768px) {
+ .item-for-media{
     display:none;
   }
 }
