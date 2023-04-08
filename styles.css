@@ -521,7 +521,7 @@ list-style-type: none;
   font-size: 40px;
 }
 
-/* .mitlogo {
+ .mitlogo {
   list-style-image: url('/samplewebsite/img/MIT_logo_resized.svg');
 }
 
@@ -529,7 +529,7 @@ list-style-type: none;
   font-size: 40px;
 }
 
-.iitlogo {
+/* .iitlogo {
   list-style-image: url('/samplewebsite/img/IITM_logo.svg');
 }
 
