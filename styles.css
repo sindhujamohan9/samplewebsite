@@ -514,11 +514,12 @@ list-style-type: none;
 }
 
 li.interestsitem {
-  list-style-type: url('samplewebsite/img/jigsaw-puzzle.svg');
+  list-style: none;
 }
+
 li.interestsitem::before {
   width: 20px;
-  background-image: url('/samplewebsite/img/puzzle2.svg');
+  background-image: url('/samplewebsite/img/jigsaw-puzzle.svg');
 }
 
 ul.ul-interests li {
