@@ -514,7 +514,7 @@ list-style-type: none;
 }
 
 li.interestsitem {
-  list-style: none;
+  list-style-type: url('samplewebsite/img/jigsaw-puzzle.svg');
 }
 li.interestsitem::before {
   width: 20px;
