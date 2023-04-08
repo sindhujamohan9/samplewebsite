@@ -517,7 +517,7 @@ list-style-type: none;
   list-style-image: url('/samplewebsite/img/jigsaw-puzzle.svg');
 }
 
-.interestsitem::before {
+.interestsitem::marker {
   font-size: 40px;
 }
 
