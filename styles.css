@@ -513,11 +513,11 @@ list-style-type: none;
   font-size: 2rem;
 }
 
-li.interestsitem {
+.interestsitem {
   list-style: none;
 }
 
-li.interestsitem::before {
+.interestsitem::before {
   width: 20px;
   background-image: url('/samplewebsite/img/jigsaw-puzzle.svg');
 }
