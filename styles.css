@@ -522,9 +522,9 @@ list-style-type: none;
 }
 
  .mitlogo {
-  background: url('/samplewebsite/img/MIT_logo_resized-2.svg') no-repeat 4px transparent;
- list-style-type: none;
- margin-left: 0px;
+  background: url('/samplewebsite/img/MIT_logo_resized-2.svg') no-repeat 0px 15px transparent;
+  list-style-type: none;
+  margin-left: 0px;
 }
 
 
