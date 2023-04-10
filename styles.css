@@ -521,22 +521,17 @@ list-style-type: none;
   font-size: 40px;
 }
 
- .mitlogo {
-  background: url('/samplewebsite/img/MIT_logo_resized-2.svg') no-repeat 0px 15px transparent;
+.mitlogo {
+  background: url('/samplewebsite/img/MIT_logo_resized-2.svg') no-repeat 0px 10px transparent;
   list-style-type: none;
   margin-left: 0px;
 }
 
-
-
-/* .iitlogo {
-  list-style-image: url('/samplewebsite/img/IITM_logo.svg');
+.iitlogo {
+  background: url('/samplewebsite/img/IITM_logo.svg') no-repeat 0px 10px transparent;
+  list-style-type: none;
+  margin-left: 0px;
 }
-
-.iitlogo::marker {
-  font-size: 40px;
-}
- */
 
 ul.ul-interests li {
   font-size: 0.9rem;
