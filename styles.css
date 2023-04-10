@@ -522,12 +522,12 @@ list-style-type: none;
 }
 
  .mitlogo {
-  list-style-image: url('/samplewebsite/img/MIT_logo_resized-2.svg');
+  background: url('/samplewebsite/img/MIT_logo_resized-2.svg') no-repeat 4px transparent;
+ list-style-type: none;
+ margin-left: 0px;
 }
 
-.mitlogo::marker {
-  font-size: 40px;
-}
+
 
 /* .iitlogo {
   list-style-image: url('/samplewebsite/img/IITM_logo.svg');
