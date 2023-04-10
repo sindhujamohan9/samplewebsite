@@ -514,7 +514,7 @@ list-style-type: none;
 }
 
 .interestsitem {
-  list-style-image: url('/samplewebsite/img/jigsaw-puzzle.svg');
+  list-style-image: url('/samplewebsite/img/magnifying-glass-2.svg');
 }
 
 .interestsitem::marker {
