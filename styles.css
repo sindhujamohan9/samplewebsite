@@ -528,9 +528,10 @@ list-style-type: none;
 }
 
 .iitlogo {
-  background: url('/samplewebsite/img/IITM_logo_resized.svg') no-repeat 0px 10px transparent;
+  background: url('/samplewebsite/img/IITM_logo_resized.svg') no-repeat 0px 5px transparent;
   list-style-type: none;
   margin-left: 0px;
+  background-size: 45px;
 }
 
 ul.ul-interests li {
