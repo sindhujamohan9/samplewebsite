@@ -1397,6 +1397,10 @@ table table {
   background-color: #fff;
 } 
 
+.collaborators-row{
+  border-top-width: 0px;
+}
+
 /* Table Striped */
 
 /* table > tbody > tr:nth-child(odd) > td,
