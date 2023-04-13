@@ -1398,16 +1398,18 @@ table table {
 } 
 
 /* Table Striped */
-/* table > tbody > tr:nth-child(odd) > td,
+
+table > tbody > tr:nth-child(odd) > td,
 table > tbody > tr:nth-child(odd) > th {
-  background-color: #f9f9f9;
+/*   background-color: #f9f9f9; */
 }
 
 /* Table Hover */
+
 table > tbody > tr:hover > td,
 table > tbody > tr:hover > th {
-  background-color: #e5e5e5;
-} */
+/*   background-color: #e5e5e5; */
+} 
 
 /*************************************************
  *  Alerts
