@@ -516,7 +516,7 @@ list-style-type: none;
 
 .interestsitem {
   list-style-image: url('/samplewebsite/img/magnifying-glass-2.svg');
-  margin-top: 0px;
+  margin-top: -30px;
 }
 
 .interestsitem::marker {
