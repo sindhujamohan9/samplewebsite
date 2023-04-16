@@ -216,7 +216,7 @@ blockquote p:last-child {
   }
   
  .mobile-nav{
-    width: 363px;
+    margin-left: -28px;
     margin-top: 10px;
   }
 }
