@@ -214,6 +214,11 @@ blockquote p:last-child {
  .item-for-media{
     display:none;
   }
+  
+ .mobile-nav{
+    width: 363px;
+    margin-top: 10px;
+  }
 }
 
 .universal-wrapper {
