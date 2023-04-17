@@ -548,6 +548,11 @@ ul.ul-interests li {
   font-size: 0.9rem;
 }
 
+awards li {
+  margin-top: 10px;
+  list-style-type: circle;
+}
+
 ul.ul-edu {
   list-style: none;
 }
