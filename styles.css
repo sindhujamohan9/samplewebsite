@@ -553,6 +553,10 @@ awards li {
   list-style-type: circle;
 }
 
+.section-header {
+  text-align: center;
+}
+
 ul.ul-edu {
   list-style: none;
 }
