@@ -548,7 +548,7 @@ ul.ul-interests li {
   font-size: 0.9rem;
 }
 
-tr.td-collaborators td{
+tbody.td-collaborators td{
   border-top: none !important;
 }
 
