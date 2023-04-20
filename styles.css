@@ -548,6 +548,10 @@ ul.ul-interests li {
   font-size: 0.9rem;
 }
 
+.td-collaborators {
+  border-top-width: 0px;
+}
+
 awards li {
   margin-top: 10px;
   list-style-type: circle;
