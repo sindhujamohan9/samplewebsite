@@ -549,7 +549,7 @@ ul.ul-interests li {
 }
 
 tr.td-collaborators td{
-  border-top-width: 0px;
+  border-top: none !important;
 }
 
 awards li {
