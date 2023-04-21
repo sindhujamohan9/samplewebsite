@@ -523,11 +523,17 @@ list-style-type: none;
   font-size: 40px;
 }
 
-@media (min-width: 3072px),
+/* @media (min-width: 3072px),
        (min-width: 768px) and (resolution: 200dpi) {
     .interestsitem{
         margin-top: -30px;
     }
+} */
+
+@media screen and (max-width: 480px) {
+  .interestsitem {
+    margin-top: -30px;
+  }
 }
 
 ol.papers li{
