@@ -552,6 +552,14 @@ tr.td-collaborators td{
   border-top: none !important;
 }
 
+.announcement_icon{
+  height: 25px;
+  display: block;
+  margin-top: 10px;
+  float: left;
+  margin-right: 15px;
+}
+
 awards li {
   margin-top: 10px;
   list-style-type: circle;
