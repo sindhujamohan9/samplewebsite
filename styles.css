@@ -554,10 +554,7 @@ tr.td-collaborators td{
 
 .announcement_icon{
   height: 25px;
-  display: block;
-  margin-top: 10px;
-  float: left;
-  margin-right: 15px;
+  display: inline;
 }
 
 awards li {
