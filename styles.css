@@ -556,6 +556,7 @@ ol.papers li{
 
 ul.ul-interests li {
   font-size: 0.9rem;
+  margin-top: -23px;
 }
 
 tr.td-collaborators td{
