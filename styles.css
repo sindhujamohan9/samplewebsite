@@ -513,6 +513,7 @@ list-style-type: none;
 ul.ul-interests li {
   font-size: 0.9rem;
   margin-top: -23px;
+  -webkit-margin-before: 6px;
 }
 
 .interestsitem {
