@@ -506,12 +506,14 @@ list-style-type: none;
   margin-right: 0;
 }
 
-/* #profile .network-icon li:hover {
-  transform: scale(1.2)
-} */
-
 .big-icon {
   font-size: 2rem;
+}
+
+ul.ul-interests li {
+  font-size: 0.9rem;
+  margin-top: -23px;
+  list-style-image: url(/samplewebsite/img/magnifying-glass-2.svg);
 }
 
 .interestsitem {
@@ -530,11 +532,11 @@ list-style-type: none;
     }
 } */
 
-@media screen and (max-width: 480px) {
+/* @media screen and (max-width: 480px) {
   .interestsitem {
     margin-top: -30px;
   }
-}
+} */
 
 ol.papers li{
   margin-top: 10px;
@@ -554,10 +556,6 @@ ol.papers li{
   background-size: 42px;
 }
 
-ul.ul-interests li {
-  font-size: 0.9rem;
-  margin-top: -23px;
-}
 
 tr.td-collaborators td{
   border-top: none !important;
