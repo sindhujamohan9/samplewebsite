@@ -530,6 +530,10 @@ list-style-type: none;
     }
 }
 
+ul.papers li{
+  margin-top: 10px;
+}
+
 
 .mitlogo {
   background: url('/samplewebsite/img/MIT_logo_resized-2.svg') no-repeat 0px 10px transparent;
