@@ -520,6 +520,14 @@ ul.ul-interests li {
   display: flex; 
 }
 
+.interestsitem {
+  height: 25px;
+  display: block;
+  margin-top: 15px;
+  float: left;
+  margin-right: 15px;
+}
+
 /* .interestsitem {
   list-style-image: url('/samplewebsite/img/magnifying-glass-2.svg');
   margin-top: 0px;
