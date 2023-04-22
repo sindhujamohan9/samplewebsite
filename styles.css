@@ -510,10 +510,15 @@ list-style-type: none;
   font-size: 2rem;
 }
 
+
 ul.ul-interests li {
   font-size: 0.9rem;
   margin-top: -23px;
-  -webkit-margin-before: 6px;
+  display: -webkit-box;
+  display: -moz-box; 
+  display: -ms-flexbox;
+  display: -webkit-flex; 
+  display: flex; 
 }
 
 .interestsitem {
