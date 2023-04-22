@@ -527,14 +527,17 @@ ul.ul-interests li {
   margin-right: 10px;
 }
 
-/* .interestsitem {
-  list-style-image: url('/samplewebsite/img/magnifying-glass-2.svg');
-  margin-top: 0px;
+div.annual-talks p{
+  margin-bottom: 10px !important;
 }
 
-.interestsitem::marker {
-  font-size: 40px;
-} */
+div.annual-talks ul{
+  margin-bottom: 10px !important;
+}
+
+div.annual-talks li{
+  padding-top: 0px !important;
+}
 
 ol.papers li{
   margin-top: 10px;
