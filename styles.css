@@ -510,6 +510,9 @@ list-style-type: none;
   font-size: 2rem;
 }
 
+ul-interests{
+  padding-left: 0px !important;
+}
 
 ul.ul-interests li {
   font-size: 0.9rem;
