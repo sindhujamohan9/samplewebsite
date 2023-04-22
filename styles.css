@@ -557,12 +557,13 @@ div.teaching-outreach p{
 
 .projects-text{
   width: 60%; 
-  border-top: none;
-  border-top:none;
+  border-top: none !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
 }
 
 .projects-img{ 
-  border-top: none;
+  border-top: none !important;
 }
 
 ol.papers li{
