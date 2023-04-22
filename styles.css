@@ -549,6 +549,12 @@ div.teaching-outreach p{
   margin-top: 30px;
 }
 
+.committees{
+  font-size: 22px; 
+  margin-top: 30px; 
+  text-indent: -20px;
+}
+
 ol.papers li{
   margin-top: 10px;
 }
