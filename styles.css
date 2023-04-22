@@ -555,6 +555,16 @@ div.teaching-outreach p{
   text-indent: -20px;
 }
 
+.projects-text{
+  width: 60%; 
+  border-top: none;
+  border-top:none;
+}
+
+.projects-img{ 
+  border-top: none;
+}
+
 ol.papers li{
   margin-top: 10px;
 }
