@@ -520,26 +520,13 @@ ul.ul-interests li {
   display: flex; 
 }
 
-.interestsitem {
+/* .interestsitem {
   list-style-image: url('/samplewebsite/img/magnifying-glass-2.svg');
   margin-top: 0px;
 }
 
 .interestsitem::marker {
   font-size: 40px;
-}
-
-/* @media (min-width: 3072px),
-       (min-width: 768px) and (resolution: 200dpi) {
-    .interestsitem{
-        margin-top: -30px;
-    }
-} */
-
-/* @media screen and (max-width: 480px) {
-  .interestsitem {
-    margin-top: -30px;
-  }
 } */
 
 ol.papers li{
