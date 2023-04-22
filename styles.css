@@ -539,6 +539,16 @@ div.annual-talks li{
   padding-top: 0px !important;
 }
 
+div.teaching-outreach p{
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.teaching-videos{
+  font-size: 22px;
+  margin-top: 30px;
+}
+
 ol.papers li{
   margin-top: 10px;
 }
