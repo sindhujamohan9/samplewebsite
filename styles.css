@@ -531,6 +531,19 @@ ul.ul-interests li {
   margin-right: 10px;
 }
 
+div.awards b{
+  font-weight: 530;
+}
+
+.li-selected-talks{
+  margin-top: 10px;
+}
+
+.p-service{
+  font-size: 22px;
+  text-indent: -20px;
+}
+
 div.annual-talks p{
   margin-bottom: 10px !important;
 }
