@@ -568,8 +568,10 @@ div.teaching-outreach p{
 
 .committees{
   font-size: 22px; 
-  margin-top: 30px; 
+  margin-top: 10px; 
+  margin-bottom: 10px;
   text-indent: -20px;
+  font-weight: 450;
 }
 
 .projects-text{
